@@ -1,2 +1,2 @@
-# Several-projects.md
+# Several-projects
 Тест-аналитика и тест-дизайн на различных стендах
